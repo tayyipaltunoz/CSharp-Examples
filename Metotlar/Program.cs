@@ -8,14 +8,14 @@ namespace Metotlar
         {
             string urunAdi = "Elma";
             double fiyati = 15;
-            string aciklama = "Amasya elması";
+            string aciklama = "Tokat elması";
 
             string[] meyveler = new string[] {"Elma","Karpuz" };
 
             Urun urun1 = new Urun();
             urun1.Adi = "Elma";
             urun1.Fiyati = 15;
-            urun1.Aciklama = "Amasya elması";
+            urun1.Aciklama = "Tokat elması";
 
             Urun urun2 = new Urun();
             urun2.Adi = "Karpuz";

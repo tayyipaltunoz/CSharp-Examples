@@ -24,8 +24,8 @@ namespace OOP1
 
 
 
-            //int,double,bool... değer tip
-            //diziler,class, abstract class, interface ... referans tip
+            //int,double,bool -- değer tip
+            //diziler,class, abstract class, interface -- referans tip
             //ref out
         }
     }

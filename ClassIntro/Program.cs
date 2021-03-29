@@ -6,27 +6,27 @@ namespace ClassIntro
     {
         static void Main(string[] args)
         {
-            string adi = "Engin";
+            string adi = "Tayyip";
             int yas = 36;
 
             Kurs kurs1 = new Kurs();
             kurs1.KursAdi = "C#";
-            kurs1.Egitmen = "Engin Demiroğ";
+            kurs1.Egitmen = "Tayyip Altunoz";
             kurs1.IzlenmeOrani = 68;
 
             Kurs kurs2 = new Kurs();
             kurs2.KursAdi = "Java";
-            kurs2.Egitmen = "Kerem Varış";
+            kurs2.Egitmen = "Turan Altunöz";
             kurs2.IzlenmeOrani = 64;
 
             Kurs kurs3 = new Kurs();
             kurs3.KursAdi = "Python";
-            kurs3.Egitmen = "Berkay Bilgin";
+            kurs3.Egitmen = "Ali Ağca";
             kurs3.IzlenmeOrani = 80;
 
             Kurs kurs4 = new Kurs();
             kurs4.KursAdi = "C++";
-            kurs4.Egitmen = "Murat Kurtboğan";
+            kurs4.Egitmen = "Mustafa Kantik";
             kurs4.IzlenmeOrani = 100;
 
 

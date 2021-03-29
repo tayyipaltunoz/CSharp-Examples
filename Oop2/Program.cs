@@ -10,8 +10,8 @@ namespace Oop2
             GercekMusteri musteri1 = new GercekMusteri();
             musteri1.Id = 1;
             musteri1.MusteriNo = "12345";
-            musteri1.Adi = "Engin";
-            musteri1.Soyadi = "Demiroğ";
+            musteri1.Adi = "Tayyip";
+            musteri1.Soyadi = "Altunoz";
             musteri1.TcNo = "12345678910";
 
 

@@ -30,7 +30,7 @@ namespace Donguler
                 Console.WriteLine(kurslar[i]);
             }
 
-            Console.WriteLine("For bitti");
+            Console.WriteLine("For bitti Foreach örneği");
 
             foreach (string kurs in kurslar)
             {
