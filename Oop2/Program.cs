@@ -6,7 +6,7 @@ namespace Oop2
     {
         static void Main(string[] args)
         {
-            //Engin Demiroğ
+            //Tayyip Altunöz
             GercekMusteri musteri1 = new GercekMusteri();
             musteri1.Id = 1;
             musteri1.MusteriNo = "12345";

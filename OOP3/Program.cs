@@ -7,6 +7,8 @@ namespace OOP3
     {
         static void Main(string[] args)
         {
+            // interfaceler de o interface implemente eden classın referans numarasını tutabiliyor 
+
             IKrediManager ihtiyacKrediManager = new IhtiyacKrediManager();
             IKrediManager tasitKrediManager = new TasitKrediManager();
             IKrediManager konutKrediManager = new KonutKrediManager();
